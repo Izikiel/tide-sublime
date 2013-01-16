@@ -1,4 +1,4 @@
 tide-sublime
 ============
 
-TideSDK API autocompletion
+TideSDK API autocompletion for Sublime Text 2 editor
