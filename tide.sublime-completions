@@ -331,7 +331,6 @@
 		{ "trigger": "Ti.Media.Sound.stop", "contents": "Ti.Media.Sound.stop();$0" },
 
 		"Ti.Network",
-		"Ti.Network.online",
 		{ "trigger": "Ti.Network.addConnectivityListener", "contents": "Ti.Network.addConnectivityListener();$0" },
 		{ "trigger": "Ti.Network.createHTTPClient", "contents": "Ti.Network.createHTTPClient();$0" },
 		{ "trigger": "Ti.Network.createHTTPCookie", "contents": "Ti.Network.createHTTPCookie();$0" },
