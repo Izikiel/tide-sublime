@@ -1,7 +1,7 @@
 tide-sublime
 ============
 
-TideSDK API autocompletion for Sublime Text 2 editor
+TideSDK API autocompletion for Sublime Text editor
 
 Official documentation located here: [http://tidesdk.multipart.net/docs/user-dev/generated/#!/api/Ti](http://tidesdk.multipart.net/docs/user-dev/generated/#!/api/Ti)
 
