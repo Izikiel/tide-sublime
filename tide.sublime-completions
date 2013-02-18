@@ -1,5 +1,5 @@
 {
-	"scope": "source.js,source.js.embedded.html,source.php,source.python,source.html,source.ruby",
+	"scope": "source.coffee, source.js,source.js.embedded.html,source.php,source.python,source.html,source.ruby",
 	"completions":
 	[
 		"Ti.ALL",
